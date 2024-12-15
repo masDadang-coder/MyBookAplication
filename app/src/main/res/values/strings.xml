@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="book_name">Judul Buku</string>
+    <string name="description">Deskripsi</string>
+    <string name="price">Harga</string>
+    <string name="about">List</string>
+    <string name="developer_name">Yuan Fernando</string>
+    <string name="developer_email">yuanfernando217b@gmail.com</string>
+    <string name="ini_passphoto">INI PASSPHOTO</string>
+    <string name="buy">Buy</string>
+    <string name="outhor">Penulis</string>
+    <string-array name="data_judul">
+        <item>Rich Dad Poor Dad</item>
+        <item>The Total Money Makeover</item>
+        <item>Your Money or Your Life</item>
+        <item>The Intelligent Investor</item>
+        <item>I Will Teach You to Be Rich</item>
+        <item>The Millionaire Next Door</item>
+        <item>Think and Grow Rich</item>
+        <item>The Barefoot Investor</item>
+        <item>Financial Freedom</item>
+        <item>Broke Millennial</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Rich Dad Poor Dad karya Robert Kiyosaki adalah buku populer yang membandingkan pola pikir orang kaya dan miskin melalui pengalaman penulis dengan dua figur ayah: "Rich Dad" yang fokus pada investasi dan kebebasan finansial, serta "Poor Dad" yang mengandalkan penghasilan tetap. Buku ini menyoroti pentingnya pendidikan keuangan, pengelolaan aset dan kewajiban, serta menciptakan pendapatan pasif untuk mencapai kebebasan finansial. Dengan bahasa sederhana, Kiyosaki mengajarkan konsep keuangan dasar yang relevan bagi semua kalangan.</item>
+        <item>The Total Money Makeover oleh Dave Ramsey adalah panduan praktis untuk mengatur keuangan pribadi dan mencapai kebebasan finansial. Buku ini menawarkan langkah-langkah sistematis, seperti membangun dana darurat, melunasi utang menggunakan metode snowball, dan menginvestasikan uang untuk masa depan. Dengan gaya yang lugas dan penuh motivasi, Ramsey memotivasi pembaca untuk mengubah kebiasaan buruk dalam pengelolaan uang. Ia menekankan pentingnya disiplin dan pengorbanan untuk mencapai tujuan finansial. Buku ini disertai dengan kisah-kisah sukses pembaca yang telah menerapkan metode Ramsey.</item>
+        <item>Your Money or Your Life oleh Vicki Robin dan Joe Dominguez menawarkan pendekatan mendalam untuk mengubah hubungan dengan uang dan mencapai kebebasan finansial. Buku ini menyajikan sembilan langkah praktis, termasuk melacak pengeluaran, mengevaluasi nilai uang dalam hidup, serta mengurangi konsumsi berlebihan. Penulis menekankan pentingnya menyesuaikan gaya hidup dengan nilai-nilai pribadi dan tujuan hidup jangka panjang. Dengan panduan ini, pembaca dapat mengatur keuangan mereka secara efisien dan fokus pada kebahagiaan serta kepuasan hidup yang sejati.</item>
+        <item>The Intelligent Investor oleh Benjamin Graham adalah buku klasik investasi yang menjadi panduan utama bagi investor sejak pertama kali diterbitkan. Buku ini mengajarkan prinsip "investasi nilai," yaitu fokus pada membeli saham yang dihargai di bawah nilai intrinsiknya. Graham memperkenalkan konsep seperti "margin of safety" untuk mengurangi risiko dan pentingnya pendekatan jangka panjang dalam menghadapi volatilitas pasar. Buku ini membedakan antara spekulan dan investor sejati, menekankan pentingnya disiplin, riset, dan kebijakan investasi yang rasional. Cocok untuk pemula dan profesional.</item>
+        <item>I Will Teach You to Be Rich oleh Ramit Sethi adalah buku yang memberikan panduan praktis dan tanpa basa-basi untuk meraih kebebasan finansial. Sethi mengajarkan cara mengelola uang dengan efektif, mulai dari mengatur anggaran, membuka rekening investasi, hingga mengelola utang dengan bijak. Buku ini juga menekankan pentingnya otomatisasi keuangan agar dapat fokus pada hal-hal yang lebih penting dalam hidup, bukan hanya menghitung pengeluaran. Sethi menyarankan cara untuk menumbuhkan aset dan mencapai tujuan finansial dengan strategi yang mudah diikuti dan tidak membebani.</item>
+        <item>The Millionaire Next Door oleh Thomas J. Stanley dan William D. Danko mengungkap karakteristik sebenarnya dari para jutawan di Amerika. Buku ini menunjukkan bahwa kebanyakan jutawan bukanlah mereka yang hidup glamor, tetapi orang biasa yang mengelola uang dengan bijaksana. Mereka fokus pada menabung, investasi, dan gaya hidup sederhana. Buku ini membahas tujuh ciri utama jutawan, termasuk pengelolaan waktu, anggaran, dan kebiasaan finansial positif lainnya. Penulis menyoroti pentingnya disiplin dan pengendalian diri untuk membangun kekayaan jangka panjang.</item>
+        <item>Think and Grow Rich oleh Napoleon Hill adalah buku motivasi klasik yang mengajarkan prinsip-prinsip untuk mencapai kesuksesan dan kekayaan. Hill mengungkapkan bahwa kekayaan dimulai dari kekuatan pikiran, keyakinan, dan tujuan yang jelas. Buku ini menekankan pentingnya memiliki hasrat yang kuat, kemampuan untuk bekerja keras, serta perencanaan dan tindakan yang terfokus. Hill menyarankan agar pembaca mengembangkan "keinginan yang kuat" dan menetapkan tujuan yang terdefinisi dengan baik untuk mencapainya. Melalui 13 prinsip utama, buku ini memberikan panduan praktis dalam menciptakan mindset sukses.</item>
+        <item>The Barefoot Investor oleh Scott Pape adalah buku keuangan yang menawarkan panduan langkah demi langkah untuk mengelola uang secara praktis dan efektif. Pape mengajarkan prinsip keuangan sederhana, seperti cara mengatur anggaran, melunasi utang, serta berinvestasi dengan bijaksana. Buku ini menekankan pentingnya disiplin dalam pengelolaan keuangan, hidup dengan hemat, dan memprioritaskan tabungan serta investasi. Pape juga memperkenalkan konsep "three buckets" untuk memisahkan dana untuk kebutuhan sehari-hari, tabungan, dan investasi. Buku ini sangat cocok bagi mereka yang ingin mencapai kebebasan finansial tanpa rumit.</item>
+        <item>Financial Freedom oleh Grant Sabatier adalah panduan untuk mencapai kebebasan finansial dalam waktu singkat. Sabatier, yang berhasil mencapai kebebasan finansial dalam lima tahun, membagikan strateginya melalui pengelolaan uang yang cerdas, penghematan drastis, serta investasi yang bijaksana. Buku ini menekankan pentingnya meningkatkan pendapatan, mengurangi pengeluaran, dan mengelola utang. Sabatier juga membahas langkah-langkah praktis untuk membangun aset dan menghasilkan pendapatan pasif. Buku ini cocok bagi siapa saja yang ingin mencapai kebebasan finansial dengan fokus pada tujuan jangka panjang dan pengelolaan keuangan yang cermat.</item>
+        <item>Broke Millennial oleh Erin Lowry adalah buku yang ditujukan untuk generasi milenial yang ingin memahami cara mengelola keuangan pribadi dengan bijaksana. Lowry membahas topik-topik penting seperti mengatur anggaran, melunasi utang, serta merencanakan masa depan keuangan. Buku ini mengedepankan pendekatan praktis dan mudah dipahami, mengajarkan pembaca untuk mengenali kebiasaan finansial yang buruk dan memberikan solusi konkret untuk memperbaikinya. Lowry juga memberikan tips tentang cara menghindari jebakan keuangan yang umum dihadapi oleh milenial, seperti konsumsi berlebihan dan utang kartu kredit.</item>
+    </string-array>
+    <string-array name="data_price">
+        <item>Rp 150.000</item>
+        <item>Rp 250.000</item>
+        <item>Rp 200.000</item>
+        <item>Rp 300.000</item>
+        <item>Rp 250.000</item>
+        <item>Rp 250.000</item>
+        <item>Rp 150.000</item>
+        <item>Rp 200.000</item>
+        <item>Rp 250.000</item>
+        <item>Rp 200.000</item>
+    </string-array>
+    <string-array name="data_author">
+        <item>Robert Kiyosaki</item>
+        <item>Dave Ramsey</item>
+        <item>Vicki Robin dan Joe Dominguez</item>
+        <item>Benjamin Graham</item>
+        <item>Ramit Sethi</item>
+        <item>Thomas J. Stanley dan William D. Danko</item>
+        <item>Napoleon Hill</item>
+        <item>Scott Pape</item>
+        <item>Grant Sabatier</item>
+        <item>Erin Lowry</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>@drawable/rich_dad_poor_dad</item>
+        <item>@drawable/the_total_money_makeover</item>
+        <item>@drawable/your_money_or_your_life</item>
+        <item>@drawable/intelligent_investor</item>
+        <item>@drawable/iwillteachyou</item>
+        <item>@drawable/the_milioner_door</item>
+        <item>@drawable/think_and_grow_rich</item>
+        <item>@drawable/barefoot</item>
+        <item>@drawable/financial</item>
+        <item>@drawable/broke</item>
+    </string-array>
+</resources>
